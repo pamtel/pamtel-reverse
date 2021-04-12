@@ -1,0 +1,11 @@
+{
+  "name": "pamtel-reverse",
+  "version": "1.0.0",
+  "description": "npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "pamtel",
+  "license": "ISC"
+}
